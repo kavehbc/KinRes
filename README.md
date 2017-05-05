@@ -13,4 +13,4 @@ Powerpoint Presentation: [PDF](http://www.bakhtiyari.com)
 Poster: [PDF](http://www.bakhtiyari.com)  
 
 # Software Screenshot v.1.5 (Windows 10 64-bit)  
-![Software Screenshot v.1.5 (Windows 10 64-bit)](http://kaveh.bakhtiyari.com/download/extra/kinect-respiratory-v1_5.jpg)
+![Software Screenshot v.1.5 (Windows 10 64-bit)]
