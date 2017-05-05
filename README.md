@@ -9,6 +9,6 @@ Kaveh Bakhtiyari, Jürgen Ziegler, Hafizah Husain, "KinRes: Depth Sensor Noise R
 
 # More information
 [Personal Website](http://www.bakhtiyari.com)  
-Published paper at PervasiveHealth 2017: (TBA)  
+[Published paper at PervasiveHealth 2017:](javascript:alert('TBA');)  
 Powerpoint Presentation: (TBA)  
 Poster: (TBA)  
