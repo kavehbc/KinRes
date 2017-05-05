@@ -1,7 +1,7 @@
 # KinRes (Kinect Respiratory Monitoring)
 This is a windows-based software to record human respiratory signal by using the Microsoft Kinect Xbox One (v2) sensor.
 
-# NOTE:
+# Note
 This online version runs with SMA filter and manual chest ROI detection. The Kalman filter and automatic body porportion method are not included in this version on GitHub yet.
 
 # Citation
