@@ -7,8 +7,10 @@ This online version runs with SMA filter and manual chest ROI detection. The Kal
 # Citation
 Kaveh Bakhtiyari, Jürgen Ziegler, Hafizah Husain, "KinRes: Depth Sensor Noise Reduction in Contactless Respiratory Monitoring", 11th EAI International Conference on Pervasive Computing Technologies for Healthcare (PervasiveHealth), Barcelona, Spain, 23-26 May 2017 (in press)
 
-# More information
-[Personal Website](http://www.bakhtiyari.com)  
-[Published paper at PervasiveHealth 2017:](javascript:alert('TBA');)  
-Powerpoint Presentation: (TBA)  
-Poster: (TBA)  
+# More information  
+Published paper at PervasiveHealth 2017: [PDF](http://www.bakhtiyari.com)  
+Powerpoint Presentation: [PDF](http://www.bakhtiyari.com)  
+Poster: [PDF](http://www.bakhtiyari.com)  
+
+# Software Screenshot v.1.5 (Windows 10 64-bit)  
+![Software Screenshot v.1.5 (Windows 10 64-bit)](http://kaveh.bakhtiyari.com/download/extra/kinect-respiratory-v1_5.jpg)
