@@ -5,7 +5,7 @@ This is a windows-based software to record human respiratory signal by using the
 This online version runs with SMA filter and manual chest ROI detection. The Kalman filter is not included in this version on GitHub yet.
 
 # Citation
-Please cite the following references if you are using KinRes:
+Please cite the following references if you are using any part of KinRes:
 
 K. Bakhtiyari, J. Ziegler, and H. Husain, "KinRes: depth sensor noise reduction in contactless respiratory monitoring," presented at the Proceedings of the 11th EAI International Conference on Pervasive Computing Technologies for Healthcare (PervasiveHealth), Barcelona, Spain, 2017, pp. 472-475. DOI: [10.1145/3154862.3154896](https://doi.org/10.1145/3154862.3154896)
 
