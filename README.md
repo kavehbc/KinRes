@@ -18,3 +18,11 @@ Poster: [PDF](http://kaveh.bakhtiyari.com/download/presentations/2017-05-pervasi
 
 # Software Screenshot v.1.5 (Windows 10 64-bit)  
 ![Software Screenshot v.1.5 (Windows 10 64-bit)](http://kaveh.bakhtiyari.com/download/extra/kinect-respiratory-v1_5.jpg)
+
+___
+## Developer(s)
+- Kaveh Bakhtiyari - [Website](http://bakhtiyari.com) | [Medium](https://medium.com/@bakhtiyari)
+  | [LinkedIn](https://www.linkedin.com/in/bakhtiyari) | [Github](https://github.com/kavehbc)
+
+## Contribution
+Feel free to join the open-source community and contribute to this repository.
